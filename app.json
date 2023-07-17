@@ -1,14 +1,15 @@
 {
-    "name": "TNT",
+    "name": "صيد سلور",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
     "stack": "container",
-    "repository": "https://github.com/haahjwjq/fidiwub",
+    "logo": "https://graph.org/file/4faace194cc486c3d7780.jpg",
+    "repository": "https://github.com/picthon/SLOR2",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github./haahjwjq/fidiwub",
+    "website": "https://github.com/picthon/SLOR2",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
