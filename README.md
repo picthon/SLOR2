@@ -1,2 +1,2 @@
 
-### تابع : [TNT](https://t.me/Is_TNT) ###
+### تابع : [SLOR](https://t.me/SLOR5) ###
